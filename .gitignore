@@ -8,3 +8,7 @@
 /build
 /captures
 .externalNativeBuild
+./app/.externalNativeBuild
+./app/build
+./app/src
+./dlib/build
